@@ -5,10 +5,10 @@ Turn any image into ASCII art !
 ## To run
 
 ```sh
-    python3 image_to_ascii.py YOUR_IMAGE OUTPUT_FILENAME NEW_WIDTH
+    python3 drawme.py YOUR_IMAGE OUTPUT_FILENAME NEW_WIDTH
 ```
 
-- Ex : python3 image_to_ascii.py ongaku.png ongaku.txt 140
+- Ex : python3 drawme.py ongaku.png ongaku.txt 140
 
 <img src="ongaku.png" />
 
